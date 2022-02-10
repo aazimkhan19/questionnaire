@@ -1,4 +1,4 @@
-﻿Django==2.2
+﻿Django==2.2.27
 gunicorn==19.8.1
 django-widget-tweaks
 Pillow
